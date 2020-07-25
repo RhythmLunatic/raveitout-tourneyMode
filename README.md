@@ -5,7 +5,7 @@ Grab the regular theme from here: https://github.com/RhythmLunatic/raveitout
 
 Name the cloned folder "raveitout4w". This is important!
 
-Then clone this repo and name this one "Rave It Out Tourney".
+Then clone this repo and name this one "raveitout-tourneyMode", it should already have this name by default when cloned.
 
 Then go to the operator menu of Rave It Out 4 Weebs and press "tournament mode" instead of "game mode"
 
